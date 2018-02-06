@@ -7,7 +7,7 @@ h1 a {
 	margin-left: 225px;
 }
 .page-header {
-    background-color: #4682B4;
+    background-color: #00004F;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -44,7 +44,7 @@ h1, h2, h3, h4 {
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
-    color: 	#c0c0c0;
+    color: 	#FF1F35;
     float: right;
     font-size: 26pt;
     margin-right: 10px;
@@ -52,7 +52,7 @@ h1, h2, h3, h4 {
 }
 
 .post {
-    margin-bottom: 70px;
+    margin-bottom: 700px;
 	margin-left: 0px;
 	width: 950px;
 }
