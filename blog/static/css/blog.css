@@ -63,3 +63,8 @@ h1, h2, h3, h4 {
 	font-variant: none;
 	margin-left: 0px;
 }
+.img {
+	margin-left: 0px;
+	float: left;
+	margin-top: 25px;
+}
