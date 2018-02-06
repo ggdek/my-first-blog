@@ -3,8 +3,7 @@ h1 a {
 	font-family: 'Gravitas One', cursive;
 	font-weight: 800;
 	font-variant: small-caps;
-	font-effect: fire-animation;
-	margin-left: 225px;
+	margin-left: 255px;
 }
 .page-header {
     background-color: #00004F;
@@ -23,6 +22,7 @@ h1 a {
 	font-family: 'Neucha', cursive;
 	font-size: 12pt;
 	font-weight: 400;
+	background-color: #5291EF;
 }
 
 h1, h2, h3, h4 {
