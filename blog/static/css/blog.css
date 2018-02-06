@@ -3,7 +3,7 @@ h1 a {
 	font-family: 'Gravitas One', cursive;
 	font-weight: 800;
 	font-variant: small-caps;
-	margin-left: 300px;
+	margin-left: 320px;
 }
 .page-header {
     background-color: #00204F;
@@ -62,7 +62,4 @@ h1, h2, h3, h4 {
 	font-weight: 800;
 	font-variant: none;
 	margin-left: 0px;
-}
-.page {
-	background-color: #FF0000;
 }
