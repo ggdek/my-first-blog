@@ -3,7 +3,7 @@ h1 a {
 	font-family: 'Gravitas One', cursive;
 	font-weight: 800;
 	font-variant: small-caps;
-	margin-left: 255px;
+	margin-left: 280px;
 }
 .page-header {
     background-color: #00004F;
@@ -22,7 +22,6 @@ h1 a {
 	font-family: 'Neucha', cursive;
 	font-size: 12pt;
 	font-weight: 400;
-	background-color: #5291EF;
 }
 
 h1, h2, h3, h4 {
@@ -52,15 +51,18 @@ h1, h2, h3, h4 {
 }
 
 .post {
-    margin-bottom: 700px;
+    margin-bottom: 70px;
 	margin-left: 0px;
 	width: 950px;
 }
 
 .post h1 a, .post h1 a:visited {
-    color: #4682B4;
+    color: #00004F;
 	font-family: 'Neucha', cursive;
 	font-weight: 800;
 	font-variant: none;
 	margin-left: 0px;
+}
+.page {
+	background-color: #5291EF;
 }
