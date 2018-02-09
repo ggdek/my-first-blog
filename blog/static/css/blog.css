@@ -3,12 +3,12 @@ h1 a {
 	font-family: 'Gravitas One', cursive;
 	font-weight: 800;
 	font-variant: small-caps;
-	margin-left: 320px;
+	margin-left: 0px;
 }
 .page-header {
     background-color: #00204F;
     margin-top: 0;
-    padding: 20px 20px 20px 40px;
+    padding: 20px 20px 80px 40px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
@@ -64,7 +64,9 @@ h1, h2, h3, h4 {
 	margin-left: 0px;
 }
 .img {
-	margin-left: 0px;
+	margin-left: 10px;
+	margin-top: -20px;
+}
+.img, .page-header h1 a {
 	float: left;
-	margin-top: 25px;
 }
